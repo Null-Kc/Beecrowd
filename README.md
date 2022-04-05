@@ -2,7 +2,7 @@ Nesse repositório você encontra tanto as soluções para os problemas, quanto 
 
 ## Resolvendo problemas do Beecrowd
 
-O Beecrowd é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. Você pode acessar [meu perfil no Bee 🔗](https://www.beecrowd.com.br/judge/pt/profile/565766)
+O Beecrowd é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. Você pode acessar [meu perfil no Bee 🔗](https://www.beecrowd.com.br/judge/pt/profile/642454)
 
 ## Encontre as resoluções por categorias
 
