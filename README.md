@@ -10,7 +10,7 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 
 ### [Iniciante](#iniciante)
 
-| Problema |       Código      | 💻 | 💻 | 💻 | 💻 | 💻 |
+| Problema | <img height="20px" src="https://thekenyandev.com/static/0cded3a3276425911d55a2552bf361bf/javascript.png" /> | <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /> | <img height="20px" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" /> | <img height="30px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" /> | <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />  | <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />  |
 | -------- | :---------------------------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
 | 1000     |  [JavaScript](JavaScript/1000.js) | [C++](C++/1000.cpp) | [C](C/1000.c)  | [Java](java/1000.java) | [Ruby](Ruby/1000.rb) | [python](Python/1000.py)
 | 1001     |  [JavaScript](JavaScript/1001.js) | [C++](C++/1001.cpp) | [C](C/1001.c)  | [Java](java/1001.java) | [Ruby](Ruby/1001.rb) | [python](Python/1001.py)
