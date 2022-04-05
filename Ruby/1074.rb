@@ -1,11 +1,8 @@
-# nao esta terminando ainda
-
 teste = gets.chomp.to_i
 
 i = 0
 
-until teste == i do
-    i += 1
+while i < teste
     num = gets.chomp.to_i
 
     if num < 0
@@ -17,12 +14,14 @@ until teste == i do
 
     elsif num > 0
         if num % 2 == 0
-            puts "EVEN NEGATIVE"
+            puts "EVEN POSITIVE"
         else
-            puts "ODD NEGATIVE"
+            puts "ODD POSITIVE"
         end
 
     elsif num == 0
         puts "NULL"
     end
+    
+    i = i + 1
 end
