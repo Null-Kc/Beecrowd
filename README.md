@@ -13,5 +13,7 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 | Problema |       Código      | 💻 | 💻 | 💻 | 💻 | 💻 |
 | -------- | :---------------------------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
 | 1000     |  [JavaScript](JavaScript/1000.js) | [C++](C++/1000.cpp) | [C](C/1000.c)  | [Java](java/1000.java) | [Ruby](Ruby/1000.rb) | [python](Python/1000.py)
+| 1001     |  [JavaScript](JavaScript/1001.js) | [C++](C++/1001.cpp) | [C](C/1001.c)  | [Java](java/1001.java) | [Ruby](Ruby/1001.rb) | [python](Python/1001.py)
+| 1002     |  [JavaScript](JavaScript/1002.js) | [C++](C++/1002.cpp) | [C](C/1002.c)  | [Java](java/1002.java) | [Ruby](Ruby/1002.rb) | [python](Python/1002.py)
 
-Feito com 💙 por [levxyca](https://levxyca.com/).
+Feito com 💙 por [Null](https://linktr.ee/null_pl).
