@@ -1,15 +1,23 @@
 #include <stdio.h>
+int main()
+{
+    int x,soma=0;
+    double media,i=0;
+    
+    while(1)
+    {
+        scanf("%d", &x);
+        if(x<0)
+            break;
+        else
+        {
+            soma+=x;
+            i++;
+        }
+    }
+    
+    media=soma/i;
 
-main() {
-    int idade,quantidade=0;
-    float soma=0,media;
-    do{
-        scanf("%d",&idade);
-        quantidade++;soma+=idade;
-    }while(idade>0);
-    soma-=idade;
-    quantidade--;
-    media=soma/quantidade;
-    printf("%.2f\n", media);
+    printf("%.2lf\n",media);
     return 0;
 }

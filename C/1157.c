@@ -1,10 +1,12 @@
 #include <stdio.h>
 
 main(){
-    int num,vezes,divisor;
+    int num ,x;
     scanf("%d",&num);
-        for (divisor=1; divisor<=num; divisor++){
-            if (num%divisor==0){
-                printf("%d\n",divisor);}}
+        
+    for (x=1; x<=num; x++){
+        if (num%x==0){
+            printf("%d\n",x);}
+        }
     return 0;
 }

@@ -1,12 +1,13 @@
-#include <iostream>
-
-using namespace std;
+#include<stdio.h>
 
 int main() {
-    int A, B;
+    int A,B,X;
     
-    cin >> A >> B;
-    cout << "X = " << A+B << endl;
-
+    scanf("%d %d",&A,&B);                                                                                                         
+    
+    X = A + B;
+    
+    printf("X = %d\n",X);
+    
     return 0;
 }
