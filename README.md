@@ -1,4 +1,6 @@
-## Beecrowd
+# O que é o logicadelevs? 🤔
+
+O logicadelevs 🤔 é um quadro do [meu canal na twitch](https://www.twitch.tv/levxyca) onde resolvemos exercícios de lógica do Beecrowd com JavaScript. Caso queira ver os videos mostrando todo o meu processo de resolução, [entre aqui](https://www.twitch.tv/collections/Hrs-vix_lRbAcA).
 
 Nesse repositório você encontra tanto as soluções para os problemas, quanto os códigos em diferentes linguagens. Caso queira ver a parte lógica de uma resolução, clique na aba de lógica da tabela, caso contrário, é só clicar na aba da linguagem desejada para ver o código.
 
@@ -12,9 +14,8 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 
 ### [Iniciante](#iniciante)
 
-| Problema |         Código          | 💻 | 💻 | 💻 | 💻 | 💻 |
-| -------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+| Problema |       Lógica      |         Código          | 💻 | 💻 | 💻 | 💻 |
+| -------- | :---------------------------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
 | 1000     |  [JavaScript](JavaScript/1000.js) | [C++](C++/1000.cpp) | [C](C/1000.c)  | [Java](java/1000.java) | [Ruby](Ruby/1000.rb) | [python](Python/1000.py)
 
-
-Feito com 💙 por [Null](https://linktr.ee/null_pl).
+Feito com 💙 por [levxyca](https://levxyca.com/).
