@@ -14,10 +14,8 @@ while i < cont
     
     if s == num
         puts "#{num} eh perfeito"
-    
     else 
         puts "#{num} nao eh perfeito"
-        
     end
     i = i + 1
 end
