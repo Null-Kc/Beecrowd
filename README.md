@@ -1,4 +1,4 @@
-Nesse repositório você encontra tanto as soluções para os problemas, quanto os códigos em diferentes linguagens. Caso queira ver a parte lógica de uma resolução, clique na aba de lógica da tabela, caso contrário, é só clicar na aba da linguagem desejada para ver o código.
+Nesse repositório você encontra tanto as soluções para os problemas, quanto os códigos em diferentes linguagens. é só clicar na aba da linguagem desejada para ver o código.
 
 ## Resolvendo problemas do Beecrowd
 
