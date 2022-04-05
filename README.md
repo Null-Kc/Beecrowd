@@ -15,5 +15,8 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 | 1000     |  [JavaScript](JavaScript/1000.js) | [C++](C++/1000.cpp) | [C](C/1000.c)  | [Java](java/1000.java) | [Ruby](Ruby/1000.rb) | [python](Python/1000.py)
 | 1001     |  [JavaScript](JavaScript/1001.js) | [C++](C++/1001.cpp) | [C](C/1001.c)  | [Java](java/1001.java) | [Ruby](Ruby/1001.rb) | [python](Python/1001.py)
 | 1002     |  [JavaScript](JavaScript/1002.js) | [C++](C++/1002.cpp) | [C](C/1002.c)  | [Java](java/1002.java) | [Ruby](Ruby/1002.rb) | [python](Python/1002.py)
+| 1059     |  [JavaScript](JavaScript/1059.js) | [C++](C++/1059.cpp) | [C](C/1059.c)  | [Java](java/1059.java) | [Ruby](Ruby/1059.rb) | [python](Python/1059.py)
+| 1074     |  [JavaScript](JavaScript/1074.js) | [C++](C++/1074.cpp) | [C](C/1074.c)  | [Java](java/1074.java) |   | [python](Python/1074.py)
+| 1114     |  [JavaScript](JavaScript/1114.js) | [C++](C++/1114.cpp) | [C](C/1114.c)  | [Java](java/1114.java) | [Ruby](Ruby/1114.rb) | [python](Python/1114.py)
 
 Feito com 💙 por [Null](https://linktr.ee/null_pl).
