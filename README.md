@@ -20,6 +20,7 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 | 1005     |  [JavaScript](JavaScript/1005.js) | [C++](C++/1005.cpp) | [C](C/1005.c)  | [Java](Java/1005.java) | [Ruby](Ruby/1005.rb) | [python](Python/1005.py)
 | 1035     |  [JavaScript](JavaScript/1035.js) | [C++](C++/1035.cpp) | [C](C/1035.c)  | [Java](Java/1035.java) | [Ruby](Ruby/1035.rb) | [python](Python/1035.py)
 | 1037     |  [JavaScript](JavaScript/1037.js) | [C++](C++/1037.cpp) | [C](C/1037.c)  | [Java](Java/1037.java) | [Ruby](Ruby/1037.rb) | [python](Python/1037.py)
+| 1048     |  [JavaScript](JavaScript/1048.js) | [C++](C++/1048.cpp) | [C](C/1048.c)  | [Java](Java/1048.java) | [Ruby](Ruby/1048.rb) | [python](Python/1048.py)
 | 1059     |  [JavaScript](JavaScript/1059.js) | [C++](C++/1059.cpp) | [C](C/1059.c)  | [Java](Java/1059.java) | [Ruby](Ruby/1059.rb) | [python](Python/1059.py)
 | 1074     |  [JavaScript](JavaScript/1074.js) | [C++](C++/1074.cpp) | [C](C/1074.c)  | [Java](Java/1074.java) | [Ruby](Ruby/1074.rb)  | [python](Python/1074.py)
 | 1114     |  [JavaScript](JavaScript/1114.js) | [C++](C++/1114.cpp) | [C](C/1114.c)  | [Java](Java/1114.java) | [Ruby](Ruby/1114.rb) | [python](Python/1114.py)
