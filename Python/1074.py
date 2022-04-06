@@ -1,8 +1,8 @@
-teste =int(input())
+teste = int(input())
 
 for i in range(teste):
-
     num = int(input())
+    
     if(num < 0):
         if(num % 2 == 0):
             print("EVEN NEGATIVE")
